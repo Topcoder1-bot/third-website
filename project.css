@@ -1,0 +1,9 @@
+img{
+position: fixed;
+width: 45%;
+height:45%;
+position:relative;
+float: left;
+animation: rid 1 2s ease-in forwards;
+transition: 3s;
+}
